@@ -14,7 +14,7 @@ public class Main
 
         String passengerFullName = input.next();
 
-        System.out.println("Please enter your departure date:");
+        System.out.println("Please enter your departure date: ");
 
         String departureDate = input.next();
 
